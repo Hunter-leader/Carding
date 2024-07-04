@@ -1,0 +1,69 @@
+*{
+    padding-left: 7%;
+    padding-right: 7%;
+    margin : 0%;
+    box-sizing:border-box;
+    background-color: rgb(93, 93, 93); 
+}
+
+h2{
+    color:greenyellow;
+    text-align: center;
+    font-size: 50px;
+}
+
+span{
+    color:#2cc2fd;
+}
+
+.container {
+    text-align: center;
+}
+
+h1{
+    color: rgb(2, 255, 107);
+}
+
+.introduction{
+    color:aliceblue;
+    list-style-type: none;
+    font-size: 35px;
+    
+}
+
+.list{
+    list-style-type: none;
+    font-size: 20px;
+    line-height:1.5;
+}
+
+p{
+    color: aliceblue;
+    font-size: 20px;
+}
+
+hr {
+        border: none; /* Remove default border */
+        height: 1px; /* Set height of the line */
+        background-color: #ccc; /* Color of the line */
+        margin: 20px 0; /* Add space above and below the line */
+}
+
+a{
+    font-size: 20px;
+    text-decoration: none;
+    color:white;
+}
+a:hover{
+    color:rgb(0, 255, 55);
+}
+
+h4{
+    color:rgb(88, 154, 248);
+    font-size:30px;
+}
+h3{
+    color: red;
+    font-size: 25px;
+}
+
